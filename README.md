@@ -14,7 +14,7 @@
 7. Buka github.com/virusphp/petirs-git lakukan PR (PULL Request) pada hasil kerjaan no 4 ke Repository petirs-git
 
 ```Regard
-(Perkumulan Tenaga Informatika RS)
+PETIRS (Perkumulan Tenaga Informatika RS)
 
 Slamet Sugandi
 ```
