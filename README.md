@@ -12,3 +12,9 @@
 5. Commit hasil pembuatan file sesuai dengan no 4
 6. Push hasil commit tersebut pada Repository hasil fork sesuai no 2
 7. Buka github.com/virusphp/petirs-git lakukan PR (PULL Request) pada hasil kerjaan no 4 ke Repository petirs-git
+
+```Regard
+(Perkumulan Tenaga Informatika RS)
+
+Slamet Sugandi
+```
